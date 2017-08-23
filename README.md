@@ -1,1 +1,1 @@
-# Java-ConnectFour-text
+# Coursera Python learning for accessing Databases.
